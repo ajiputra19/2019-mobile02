@@ -3,6 +3,7 @@ package id.ac.polinema.androidlifecycle;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -54,4 +55,5 @@ public class MainActivity extends AppCompatActivity {
 	// TODO: tambahkan callback onStop() di sini
 
 	// TODO: lengkapi callback untuk onRestart() onResume() onPause() onDestroy()
+
 }
